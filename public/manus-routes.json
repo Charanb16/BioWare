@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "BioWare Home" },
+    { "path": "/products", "title": "Products" },
+    { "path": "/products/:categorySlug", "title": "Product category" },
+    { "path": "/request-quote", "title": "Request a Quote" },
+    { "path": "/request-sample", "title": "Request a Sample" },
+    { "path": "/custom-manufacturing", "title": "Custom Manufacturing Inquiry" }
+  ]
+}
